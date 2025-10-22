@@ -36,7 +36,7 @@ book_publisher_project/
 │
 ├── diagram/                 # Diagrams
 │   ├── book_publisher.drawio                 → editable ER diagram (Draw.io)
-│   └── book_publisher.png                    → visual diagram (PNG)
+│   └── book_publisher_DER.png                    → visual diagram (PNG)
 │
 └── README.md
 ```
