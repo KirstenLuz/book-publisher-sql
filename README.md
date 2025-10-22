@@ -31,9 +31,8 @@ book_publisher_project/
 │   └── queries_db_book_publisher.sql         → SQL exercises and analysis queries
 │
 ├── docs/                    # Documentation and references
-│   ├── base_text_modeling.docx               → model description and explanation
-│   ├── base_text_modeling.pdf                → PDF version
-│   └── Exercícios SQL — Sistema de Livros.docx  → SQL exercises
+│   ├── base_text_modeling.pdf                → model description and explanation
+│   └── Exercícios SQL — Sistema de Livros.pdf  → SQL exercises
 │
 ├── diagram/                 # Diagrams
 │   ├── book_publisher.drawio                 → editable ER diagram (Draw.io)
