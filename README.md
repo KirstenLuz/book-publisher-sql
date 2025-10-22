@@ -32,7 +32,7 @@ book_publisher_project/
 │
 ├── docs/                    # Documentation and references
 │   ├── base_text_modeling.pdf                → model description and explanation
-│   └── Exercícios SQL — Sistema de Livros.pdf  → SQL exercises
+│   └── query_exercises.md                    → SQL exercises
 │
 ├── diagram/                 # Diagrams
 │   ├── book_publisher.drawio                 → editable ER diagram (Draw.io)
